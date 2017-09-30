@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "524710950774",
+    "firebase_url": "https://chatapp-f1050.firebaseio.com",
+    "project_id": "chatapp-f1050",
+    "storage_bucket": "chatapp-f1050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524710950774:android:0f2324c77ae1805c",
+        "android_client_info": {
+          "package_name": "com.example.spandana.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524710950774-egt45m4kvker0fjadldntl8n2jfhaat6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bQX5v8LkT0YlrS7PgIrf5cwxyTB5ouA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
